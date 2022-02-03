@@ -1,4 +1,4 @@
-# Color palatte for Windows Terminal
+# Color palette for Windows Terminal
 
 I'm using Gruvbox Dark (Hard) theme with some modifications of mine. Changed blue color to be true blue for directories to be more visible
 
